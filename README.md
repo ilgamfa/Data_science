@@ -13,4 +13,6 @@
 Обучите решающее дерево с параметром random_state=241
 и остальными параметрами по умолчанию (речь идет о параметрах конструктора DecisionTreeСlassifier).
 
+Вычислите важности признаков и найдите два признака с наибольшей важностью. Их названия будут ответами для данной задачи
+
 [Decision_Tree_Classifier.ipynb](https://github.com/ilgamfa/Data_science/blob/master/DecisionTreeClassifier.ipynb)
